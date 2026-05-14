@@ -1,6 +1,6 @@
 # KiCad TrueDark Theme
 
-Minimal repo for one thing: `colors/truedark.json`, a balanced dark theme for the newest KiCad release that preserves KiCad's default color language.
+Minimal repo for one thing: `colors/truedark.json`, a balanced dark theme for the newest KiCad release that preserves KiCad's default color direction.
 
 ## Deliverables
 

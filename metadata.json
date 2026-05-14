@@ -1,8 +1,8 @@
 {
   "$schema": "https://go.kicad.org/pcm/schemas/v2",
   "name": "TrueDark",
-  "description": "A balanced dark KiCad theme derived from KiCad's default color language.",
-  "description_full": "TrueDark translates KiCad's default color language into a balanced dark theme for the newest KiCad release. Neutral surfaces become dark-mode equivalents, while colorful and semantic layers keep their familiar KiCad direction.",
+  "description": "A balanced dark KiCad theme derived from KiCad's default color direction.",
+  "description_full": "TrueDark translates KiCad's default color direction into a balanced dark theme for the newest KiCad release. Neutral surfaces become dark-mode equivalents, while colorful and semantic layers keep their familiar KiCad direction.",
   "identifier": "truedark-kicad-theme",
   "type": "colortheme",
   "author": {
