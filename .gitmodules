@@ -1,6 +1,6 @@
 [submodule ".agents/skills/project-structure-chooser-skill"]
 	path = .agents/skills/project-structure
-	url = https://github.com/LeeorNahum/project-structure-chooser-skill
+	url = https://github.com/LeeorNahum/project-structure-skill
 [submodule ".agents/skills/release-versioning-skill"]
 	path = .agents/skills/release-versioning
 	url = https://github.com/LeeorNahum/release-versioning-skill
