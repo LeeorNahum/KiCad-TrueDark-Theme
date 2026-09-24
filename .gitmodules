@@ -1,9 +1,9 @@
 [submodule ".agents/skills/project-structure-chooser-skill"]
-	path = .agents/skills/project-structure-chooser-skill
+	path = .agents/skills/project-structure
 	url = https://github.com/LeeorNahum/project-structure-chooser-skill
 [submodule ".agents/skills/release-versioning-skill"]
-	path = .agents/skills/release-versioning-skill
+	path = .agents/skills/release-versioning
 	url = https://github.com/LeeorNahum/release-versioning-skill
 [submodule ".agents/skills/ask-questions-skill"]
-	path = .agents/skills/ask-questions-skill
+	path = .agents/skills/ask-questions
 	url = https://github.com/LeeorNahum/ask-questions-skill
